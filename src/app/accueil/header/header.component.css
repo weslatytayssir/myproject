@@ -1,0 +1,27 @@
+.navbar{
+    padding-left:3rem;
+    padding-right: 3rem;
+    background-color:rgb(26, 26, 99);
+    width: 100%;
+    border-bottom:2px solid aliceblue ;
+}
+.navbar-brand{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: aliceblue;
+    font-size: large;
+}
+.icon{
+
+}
+.slogan{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: small;
+    padding-left: 2rem;
+}
+.btn-outline-success{
+    background-color: gray;
+    color: aliceblue;
+    border-color: aliceblue;
+}

@@ -10,6 +10,8 @@ import { HeaderComponent } from './accueil/header/header.component';
 import { FooterComponent } from './accueil/footer/footer.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ConnexionComponent } from './connexion/connexion.component';
+import { AboutComponent } from './accueil/about/about.component';
+import { LoginComponent } from './connexion/login/login.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { ConnexionComponent } from './connexion/connexion.component';
     AccueilComponent,
     HeaderComponent,
     FooterComponent,
-    ConnexionComponent
+    ConnexionComponent,
+    AboutComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,

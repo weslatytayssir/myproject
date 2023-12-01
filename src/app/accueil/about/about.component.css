@@ -1,0 +1,40 @@
+.center{
+    padding-top: 2rem;
+     height: 30rem;
+   display: flex;
+    gap: 2rem;
+    padding-left: 1rem;
+
+
+}
+      .Description {
+        width: 30rem;
+        height: 30rem;
+        background-color: rgb(26, 26, 99);
+        border-radius: 50px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .Description p {
+        color: aliceblue;
+        font-size: 30px;
+        font-weight: bold;
+        margin: 0; 
+        line-height: 1.5;
+    }
+    
+    
+  
+.image{
+    border-radius: 50px;
+    align-items: center;
+    height:30rem ;
+    background-position: top;
+    background-size: cover; 
+    display: flex;
+    width: 50rem;
+    background-image: url("C:\Users\Tayssir\Downloads\pic site.webp");
+}

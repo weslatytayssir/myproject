@@ -1,0 +1,46 @@
+.sec{
+    background-color:rgb(26, 26, 99);
+    padding-top: 2rem;
+    height: 13.3rem;
+    display: flex;
+    gap: 2rem;
+    padding-left: 1rem;
+    justify-content: center;
+}
+.login{
+    background-color:rgb(26, 26, 99);
+    width: 500px;
+    justify-content: center;
+}
+.titre h1{
+    height: 6rem;
+    background-color:rgb(26, 26, 99);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    margin-bottom: 0%;
+}
+.titre p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: medium;
+}
+.form-group label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: aliceblue;
+    font-size:  medium;
+}
+
+.form-group input {
+    background-color:gray;
+}
+.btn{
+    background-color: gray;
+    color: aliceblue;
+    border-color: aliceblue;
+}
+.form-check a {
+    color:aliceblue;
+}

@@ -1,0 +1,26 @@
+.center{
+    background-color:rgb(26, 26, 99);
+    padding-top: 2rem;
+    height:19.4rem;
+    display: flex;
+    gap: 2rem;
+    padding-left: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.Description p {
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0; 
+    line-height: 1.5;
+}
+.btn {
+    background-color: gray;
+    color: aliceblue;
+    border-color: aliceblue;
+    width: 200px; 
+}
+
+    
+    

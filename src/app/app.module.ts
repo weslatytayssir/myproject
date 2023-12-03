@@ -12,6 +12,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ConnexionComponent } from './connexion/connexion.component';
 import { AboutComponent } from './accueil/about/about.component';
 import { LoginComponent } from './connexion/login/login.component';
+import { SignupComponent } from './user-profil/signup/signup.component';
+import { ChoisirComponent } from './choisir/choisir.component';
+import { OptionsComponent } from './choisir/options/options.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +25,10 @@ import { LoginComponent } from './connexion/login/login.component';
     FooterComponent,
     ConnexionComponent,
     AboutComponent,
-    LoginComponent
+    LoginComponent,
+    SignupComponent,
+    ChoisirComponent,
+    OptionsComponent
   ],
   imports: [
     BrowserModule,

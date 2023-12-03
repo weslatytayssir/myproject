@@ -1,0 +1,45 @@
+.titre h1{
+    height: 6rem;
+    background-color:rgb(26, 26, 99);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    margin-bottom: 0%;
+}
+form{
+    background-color:rgb(26, 26, 99);
+
+}
+.sec{
+    background-color:rgb(26, 26, 99);
+    padding-top: 2rem;
+    height: 13.3rem;
+    display: flex;
+    gap: 2rem;
+    padding-left: 1rem;
+    justify-content: center;
+}
+.form__label,.form-check-label,.radio p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: aliceblue;
+    font-size:  medium;
+}
+.form__field{
+    background-color:rgb(179, 179, 179);
+    color: black;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit input{ 
+    background-color: gray;
+    color: aliceblue;
+    border-color: aliceblue;
+    width: 25rem;
+    }
